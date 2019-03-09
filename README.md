@@ -49,6 +49,14 @@ password = !@#$%^&*
 
 then chat can happen between Doctor and User(patient)
 
-#### google oauth 2.0 will not work on 'http://13.234.93.154:8000/' but works locally (localhost).
+## google oauth 2.0 will not work on 'http://13.234.93.154:8000/' but works locally (localhost).
 
-### email activation feature for registration may not work on given link ('http://13.234.93.154:8000/') due to google security issues but works locally
+## email activation feature for registration may not work on given link ('http://13.234.93.154:8000/') due to google security issues but works locally
+
+For paytm payment gateway:-
+
+USERNAME: test
+
+PASSWORD: test
+
+Bank: andhra bank
