@@ -15,7 +15,7 @@ App name is relief.
 
 # For running into you machine, Make a django environment according to your operating system(given commands are for linux based OS):-
 
-# If you are facing problem intalling pycrypto in windows then run this app into linux it worked well in linux.
+# If you are facing problem intalling pycrypto in windows(due to visual c++ dependency) then run this app into linux it worked well in linux.
 
 1. sudo apt-get install python3
 2. sudo apt-get install python3-pip
@@ -37,4 +37,6 @@ App name is relief.
 2. In second window Doctor have to registered and logged in.
 then chat can happen between Doctor and User(patient)
 
-##### google oauth 2.0 is not working on static ip it require a domain name.
+##### google oauth 2.0 will not work on 'http://13.234.93.154:8000/' but works locally (localhost).
+
+### email activation feature for registration may not work on given link ('http://13.234.93.154:8000/')due to google security issues but works locally
