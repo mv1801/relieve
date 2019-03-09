@@ -29,10 +29,12 @@ App name is relief.
 10. python manage.py migrate
 11. python manage.py runserver
 
-### Home page URL = 'localhost:8000/myapp'
+## Home page URL = 'http://13.234.93.154:8000/'  (VISIT HERE)  
 
 
 # For Viewing or testing Chat feature of this app you have to open two incognito window  (by which user and doctor are logged in without any session mixing problem):-
 1. In first window User(patient) have to registered and logged in.
 2. In second window Doctor have to registered and logged in.
 then chat can happen between Doctor and User(patient)
+
+##### google oauth 2.0 is not working on static ip it require a domain name.
