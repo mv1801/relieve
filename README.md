@@ -35,6 +35,16 @@ App name is relief.
 # For Viewing or testing Chat feature of this app you have to open two incognito window  (by which user and doctor are logged in without any session mixing problem):-
 1. In first window User(patient) have to registered and logged in.
 2. In second window Doctor have to registered and logged in.
+
+For chat testing :-
+###### Login credentials for user: 
+username = usera
+password = !@#$%^&*
+
+###### Login credentials for doctor: 
+username = doctora
+password = !@#$%^&*
+
 then chat can happen between Doctor and User(patient)
 
 #### google oauth 2.0 will not work on 'http://13.234.93.154:8000/' but works locally (localhost).
