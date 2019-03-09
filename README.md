@@ -37,12 +37,14 @@ App name is relief.
 2. In second window Doctor have to registered and logged in.
 
 For chat testing :-
-###### Login credentials for user: 
+##### Login credentials for user: 
 username = usera
+
 password = !@#$%^&*
 
-###### Login credentials for doctor: 
+##### Login credentials for doctor: 
 username = doctora
+
 password = !@#$%^&*
 
 then chat can happen between Doctor and User(patient)
